@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 288ccc4cd1594634cbff26b02849e984
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7765185679482590510
+    second: akaiko-undine02-attack_0
+  - first:
+      213: 972282196224074749
+    second: akaiko-undine02-attack_1
+  - first:
+      213: 1208552372056490895
+    second: akaiko-undine02-attack_2
+  - first:
+      213: -6838157439755659556
+    second: akaiko-undine02-attack_3
+  - first:
+      213: -7498540422985767354
+    second: akaiko-undine02-attack_4
+  - first:
+      213: -121516359799809271
+    second: akaiko-undine02-attack_5
+  - first:
+      213: 7575336468621204291
+    second: akaiko-undine02-attack_6
+  - first:
+      213: -8171957115581441211
+    second: akaiko-undine02-attack_7
+  - first:
+      213: -691938481154957698
+    second: akaiko-undine02-attack_8
+  - first:
+      213: -2728516250055375185
+    second: akaiko-undine02-attack_9
+  - first:
+      213: -7506469122809179168
+    second: akaiko-undine02-attack_10
+  - first:
+      213: -4165637595373669930
+    second: akaiko-undine02-attack_11
+  - first:
+      213: 379106326792824161
+    second: akaiko-undine02-attack_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da6d7724c48c3490800000000000000
+      internalID: -7765185679482590510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 0
+        width: 64
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df36f5f818d3e7d00800000000000000
+      internalID: 972282196224074749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_2
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 75
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8302ecaaf3a5c010800000000000000
+      internalID: 1208552372056490895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 83
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd65b25e90cf911a0800000000000000
+      internalID: -6838157439755659556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_4
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 0
+        width: 77
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646a60ad635dfe790800000000000000
+      internalID: -7498540422985767354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_5
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 77
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90bdbbbb389405ef0800000000000000
+      internalID: -121516359799809271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 76
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b9a32e160012960800000000000000
+      internalID: 7575336468621204291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bda0edc40679e80800000000000000
+      internalID: -8171957115581441211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ed5501e9db566f0800000000000000
+      internalID: -691938481154957698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_9
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 42
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa681974dec522ad0800000000000000
+      internalID: -2728516250055375185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_10
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 0
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e355819a1aa3d790800000000000000
+      internalID: -7506469122809179168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_11
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 41
+        width: 10
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d17db07daea036c0800000000000000
+      internalID: -4165637595373669930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine02-attack_12
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 0
+        width: 76
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165e694123bd24500800000000000000
+      internalID: 379106326792824161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akaiko-undine02-attack_0: -7765185679482590510
+      akaiko-undine02-attack_1: 972282196224074749
+      akaiko-undine02-attack_10: -7506469122809179168
+      akaiko-undine02-attack_11: -4165637595373669930
+      akaiko-undine02-attack_12: 379106326792824161
+      akaiko-undine02-attack_2: 1208552372056490895
+      akaiko-undine02-attack_3: -6838157439755659556
+      akaiko-undine02-attack_4: -7498540422985767354
+      akaiko-undine02-attack_5: -121516359799809271
+      akaiko-undine02-attack_6: 7575336468621204291
+      akaiko-undine02-attack_7: -8171957115581441211
+      akaiko-undine02-attack_8: -691938481154957698
+      akaiko-undine02-attack_9: -2728516250055375185
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

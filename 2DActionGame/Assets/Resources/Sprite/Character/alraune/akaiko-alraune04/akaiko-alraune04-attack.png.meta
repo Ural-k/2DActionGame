@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: d06109639a22d014c874ec03616ef787
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3733602010279324277
+    second: akaiko-alraune04-attack_0
+  - first:
+      213: 1627895513800384233
+    second: akaiko-alraune04-attack_1
+  - first:
+      213: 8517272338740111200
+    second: akaiko-alraune04-attack_2
+  - first:
+      213: 7193975497578208989
+    second: akaiko-alraune04-attack_3
+  - first:
+      213: 1064177665361495402
+    second: akaiko-alraune04-attack_4
+  - first:
+      213: -5992546525033838085
+    second: akaiko-alraune04-attack_5
+  - first:
+      213: -6413013734713641365
+    second: akaiko-alraune04-attack_6
+  - first:
+      213: 2403803756707056516
+    second: akaiko-alraune04-attack_7
+  - first:
+      213: 2800529619103810157
+    second: akaiko-alraune04-attack_8
+  - first:
+      213: -3407065868970717561
+    second: akaiko-alraune04-attack_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a22633f3b60d330800000000000000
+      internalID: 3733602010279324277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 2
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee16874852779610800000000000000
+      internalID: 1627895513800384233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 2
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0676dddc01e633670800000000000000
+      internalID: 8517272338740111200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_3
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 2
+        width: 141
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dde5308899226d360800000000000000
+      internalID: 7193975497578208989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2
+        width: 114
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65c6c9c2f7b4ce00800000000000000
+      internalID: 1064177665361495402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_5
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94b537fa236dca0800000000000000
+      internalID: -5992546525033838085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_6
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 2
+        width: 157
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6631b26cf56007a0800000000000000
+      internalID: -6413013734713641365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_7
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2
+        width: 146
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b0644e7c60c5120800000000000000
+      internalID: 2403803756707056516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_8
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 2
+        width: 126
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6284a9c9da7dd620800000000000000
+      internalID: 2800529619103810157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-attack_9
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 2
+        width: 91
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e84a1c4aba7b0d0800000000000000
+      internalID: -3407065868970717561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akaiko-alraune04-attack_0: 3733602010279324277
+      akaiko-alraune04-attack_1: 1627895513800384233
+      akaiko-alraune04-attack_2: 8517272338740111200
+      akaiko-alraune04-attack_3: 7193975497578208989
+      akaiko-alraune04-attack_4: 1064177665361495402
+      akaiko-alraune04-attack_5: -5992546525033838085
+      akaiko-alraune04-attack_6: -6413013734713641365
+      akaiko-alraune04-attack_7: 2403803756707056516
+      akaiko-alraune04-attack_8: 2800529619103810157
+      akaiko-alraune04-attack_9: -3407065868970717561
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

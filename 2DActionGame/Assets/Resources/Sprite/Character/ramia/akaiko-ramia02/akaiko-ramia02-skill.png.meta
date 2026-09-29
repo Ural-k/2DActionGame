@@ -1,0 +1,405 @@
+fileFormatVersion: 2
+guid: 084d6d4068678ad4ba4840892d45c662
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -107672491320698323
+    second: akaiko-ramia02-skill_0
+  - first:
+      213: 1244831439179905264
+    second: akaiko-ramia02-skill_1
+  - first:
+      213: -2696522984110389823
+    second: akaiko-ramia02-skill_2
+  - first:
+      213: 8726872107790333913
+    second: akaiko-ramia02-skill_3
+  - first:
+      213: 4353565748013571020
+    second: akaiko-ramia02-skill_4
+  - first:
+      213: -2316490004983325233
+    second: akaiko-ramia02-skill_5
+  - first:
+      213: 5029857086563286609
+    second: akaiko-ramia02-skill_6
+  - first:
+      213: -7140089874748986465
+    second: akaiko-ramia02-skill_7
+  - first:
+      213: 8863438821750882409
+    second: akaiko-ramia02-skill_8
+  - first:
+      213: 9066395670003851849
+    second: akaiko-ramia02-skill_9
+  - first:
+      213: 2380799699010526737
+    second: akaiko-ramia02-skill_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a9fba8078718ef0800000000000000
+      internalID: -107672491320698323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_1
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 3
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f87e893997864110800000000000000
+      internalID: 1244831439179905264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 4
+        width: 77
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c58c6bf1a6049ad0800000000000000
+      internalID: -2696522984110389823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_3
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d77b11f1f31c1970800000000000000
+      internalID: 8726872107790333913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_4
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 3
+        width: 80
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb18ac4bf8fa6c30800000000000000
+      internalID: 4353565748013571020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 3
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdd93f1d9c2adfd0800000000000000
+      internalID: -2316490004983325233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_6
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ef593fe54adc540800000000000000
+      internalID: 5029857086563286609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_7
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 3
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b2937b61e49ec90800000000000000
+      internalID: -7140089874748986465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_8
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 3
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604edad5a2410b70800000000000000
+      internalID: 8863438821750882409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_9
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 3
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94228b773de42dd70800000000000000
+      internalID: 9066395670003851849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia02-skill_10
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 3
+        width: 82
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e11e456bc4a0120800000000000000
+      internalID: 2380799699010526737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akaiko-ramia02-skill_0: -107672491320698323
+      akaiko-ramia02-skill_1: 1244831439179905264
+      akaiko-ramia02-skill_10: 2380799699010526737
+      akaiko-ramia02-skill_2: -2696522984110389823
+      akaiko-ramia02-skill_3: 8726872107790333913
+      akaiko-ramia02-skill_4: 4353565748013571020
+      akaiko-ramia02-skill_5: -2316490004983325233
+      akaiko-ramia02-skill_6: 5029857086563286609
+      akaiko-ramia02-skill_7: -7140089874748986465
+      akaiko-ramia02-skill_8: 8863438821750882409
+      akaiko-ramia02-skill_9: 9066395670003851849
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

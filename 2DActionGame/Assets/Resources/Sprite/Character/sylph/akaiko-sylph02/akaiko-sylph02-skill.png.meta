@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: dac2dd1206ca15044869d1f69710d4e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1981190028688502126
+    second: akaiko-sylph02-skill_0
+  - first:
+      213: 6734845352935646587
+    second: akaiko-sylph02-skill_1
+  - first:
+      213: -8217757045381281401
+    second: akaiko-sylph02-skill_2
+  - first:
+      213: 7732135882890794123
+    second: akaiko-sylph02-skill_3
+  - first:
+      213: 1146076518524972579
+    second: akaiko-sylph02-skill_4
+  - first:
+      213: 361469850595213264
+    second: akaiko-sylph02-skill_5
+  - first:
+      213: -6330611100170187976
+    second: akaiko-sylph02-skill_6
+  - first:
+      213: -1139622208470449229
+    second: akaiko-sylph02-skill_7
+  - first:
+      213: -7634179416172941823
+    second: akaiko-sylph02-skill_8
+  - first:
+      213: 7021600861573981252
+    second: akaiko-sylph02-skill_9
+  - first:
+      213: 2230205427731599229
+    second: akaiko-sylph02-skill_10
+  - first:
+      213: 3457894182127490595
+    second: akaiko-sylph02-skill_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_0
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 19
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d268495d99e7b10800000000000000
+      internalID: 1981190028688502126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 52
+        width: 47
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b756bee6a2af67d50800000000000000
+      internalID: 6734845352935646587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_2
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 80
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789c59bb189a4fd80800000000000000
+      internalID: -8217757045381281401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_3
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 92
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84d1ce6e901e4b60800000000000000
+      internalID: 7732135882890794123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 89
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ee81c758ea7ef00800000000000000
+      internalID: 1146076518524972579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 78
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfbdb9f9e2340500800000000000000
+      internalID: 361469850595213264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 76
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b0633deb62528a0800000000000000
+      internalID: -6330611100170187976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_7
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 86
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b309fda3af3f20f0800000000000000
+      internalID: -1139622208470449229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ea963c442fd0690800000000000000
+      internalID: -7634179416172941823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444a1b418ccb17160800000000000000
+      internalID: 7021600861573981252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7f0718350843fe10800000000000000
+      internalID: 2230205427731599229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph02-skill_11
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 2
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326599c1078ecff20800000000000000
+      internalID: 3457894182127490595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akaiko-sylph02-skill_0: 1981190028688502126
+      akaiko-sylph02-skill_1: 6734845352935646587
+      akaiko-sylph02-skill_10: 2230205427731599229
+      akaiko-sylph02-skill_11: 3457894182127490595
+      akaiko-sylph02-skill_2: -8217757045381281401
+      akaiko-sylph02-skill_3: 7732135882890794123
+      akaiko-sylph02-skill_4: 1146076518524972579
+      akaiko-sylph02-skill_5: 361469850595213264
+      akaiko-sylph02-skill_6: -6330611100170187976
+      akaiko-sylph02-skill_7: -1139622208470449229
+      akaiko-sylph02-skill_8: -7634179416172941823
+      akaiko-sylph02-skill_9: 7021600861573981252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

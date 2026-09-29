@@ -3,31 +3,31 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : CharacterControl
 {
-    [SerializeField] private float m_moveSpeed = 5f;
-    [SerializeField] private float m_jumpForce = 10f;
-
-    private Rigidbody2D m_rigidbody2D;
     private PlayerInput m_playerInput;
     private InputAction m_moveAction;
+    private InputAction m_jumpAction;
 
-
-    private void Awake()
+    protected override void Awake()
     {
-        m_rigidbody2D = GetComponent<Rigidbody2D>();
+        base.Awake();
         m_playerInput = GetComponent<PlayerInput>();
         m_moveAction = m_playerInput.actions["Move"];
+        m_jumpAction = m_playerInput.actions["Jump"];
+
     }
 
     private void OnEnable()
     {
         m_moveAction.performed += OnMove;
         m_moveAction.canceled += OnMoveCanceled;
+        m_jumpAction.performed += OnJump;
     }
 
     private void OnDisable()
     {
         m_moveAction.performed -= OnMove;
         m_moveAction.canceled -= OnMoveCanceled;
+        m_jumpAction.performed -= OnJump;
     }
 
     private void OnMove(InputAction.CallbackContext context)
@@ -38,27 +38,38 @@ public class PlayerController : CharacterControl
 
     private void OnMoveCanceled(InputAction.CallbackContext context)
     {
-        m_rigidbody2D.linearVelocityX = 0;
+        m_rigidBody2D.linearVelocityX = 0;
+    }
+
+    private void OnJump(InputAction.CallbackContext context)
+    {
+        if (context.performed && IsGrounded())
+        {
+            Jump();
+        }
     }
 
     // Update is called once per frame
     private void Update()
     {
+        if (IsGrounded())
+        {
+            Debug.Log("地面に接地しています");
+        }
     }
 
     public override void Move(Vector2 direction)
     {
-        m_rigidbody2D.linearVelocityX = direction.x * m_moveSpeed;
+        m_rigidBody2D.linearVelocityX = direction.x * m_moveSpeed;
     }
 
     public override void Jump()
     {
-        // Implement player jump logic here
+        m_rigidBody2D.AddForceY(m_jumpForce,ForceMode2D.Impulse);
     }
 
     public override void Attack()
     {
         // Implement player attack logic here
     }
-
 }

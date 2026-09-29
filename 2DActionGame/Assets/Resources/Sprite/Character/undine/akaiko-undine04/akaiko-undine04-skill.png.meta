@@ -1,0 +1,587 @@
+fileFormatVersion: 2
+guid: e3e28df98ca3b474a8869cd4e262db63
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -193818381110657843
+    second: akaiko-undine04-skill_0
+  - first:
+      213: -3217477657336903868
+    second: akaiko-undine04-skill_1
+  - first:
+      213: -6398635712046950617
+    second: akaiko-undine04-skill_2
+  - first:
+      213: 3787583132935840058
+    second: akaiko-undine04-skill_3
+  - first:
+      213: 2429532082572540220
+    second: akaiko-undine04-skill_4
+  - first:
+      213: 7483951460730852286
+    second: akaiko-undine04-skill_5
+  - first:
+      213: 3545845931841824000
+    second: akaiko-undine04-skill_6
+  - first:
+      213: 1079489448394260568
+    second: akaiko-undine04-skill_7
+  - first:
+      213: 6998920309507936716
+    second: akaiko-undine04-skill_8
+  - first:
+      213: -3962052221040719712
+    second: akaiko-undine04-skill_9
+  - first:
+      213: 3800939098947194780
+    second: akaiko-undine04-skill_10
+  - first:
+      213: 979919189371838921
+    second: akaiko-undine04-skill_11
+  - first:
+      213: -8718278885662186862
+    second: akaiko-undine04-skill_12
+  - first:
+      213: -6463454701424660408
+    second: akaiko-undine04-skill_13
+  - first:
+      213: -3059905567781801700
+    second: akaiko-undine04-skill_14
+  - first:
+      213: -1337964489042804984
+    second: akaiko-undine04-skill_15
+  - first:
+      213: 2751069797356019059
+    second: akaiko-undine04-skill_16
+  - first:
+      213: -6649371152681616783
+    second: akaiko-undine04-skill_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc35f2953b6f4df0800000000000000
+      internalID: -193818381110657843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_1
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 65
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4478da91e193953d0800000000000000
+      internalID: -3217477657336903868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 0
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271058a8ba7337a0800000000000000
+      internalID: -6398635712046950617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 0
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31e6ebbac2309430800000000000000
+      internalID: 3787583132935840058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_4
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 48
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39b6209e8e67b120800000000000000
+      internalID: 2429532082572540220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 67
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3d02da3365cd760800000000000000
+      internalID: 7483951460730852286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 0
+        width: 68
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00522bb9610653130800000000000000
+      internalID: 3545845931841824000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_7
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 60
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85082561fed1bfe00800000000000000
+      internalID: 1079489448394260568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 66
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1dc7b80f8212160800000000000000
+      internalID: 6998920309507936716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_9
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 58
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a8025f2f76f309c0800000000000000
+      internalID: -3962052221040719712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 64
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f04a5e8f5afb430800000000000000
+      internalID: 3800939098947194780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 63
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1e8179f4f599d00800000000000000
+      internalID: 979919189371838921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_12
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 33
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292215f7b83720780800000000000000
+      internalID: -8718278885662186862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_13
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 39
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84031c3a1323d46a0800000000000000
+      internalID: -6463454701424660408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_14
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 35
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11302229180985d0800000000000000
+      internalID: -3059905567781801700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 32
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f3484d2689e6de0800000000000000
+      internalID: -1337964489042804984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 25
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d16b7a763cd2620800000000000000
+      internalID: 2751069797356019059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-undine04-skill_17
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 38
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17abea0aa20b8b3a0800000000000000
+      internalID: -6649371152681616783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akaiko-undine04-skill_0: -193818381110657843
+      akaiko-undine04-skill_1: -3217477657336903868
+      akaiko-undine04-skill_10: 3800939098947194780
+      akaiko-undine04-skill_11: 979919189371838921
+      akaiko-undine04-skill_12: -8718278885662186862
+      akaiko-undine04-skill_13: -6463454701424660408
+      akaiko-undine04-skill_14: -3059905567781801700
+      akaiko-undine04-skill_15: -1337964489042804984
+      akaiko-undine04-skill_16: 2751069797356019059
+      akaiko-undine04-skill_17: -6649371152681616783
+      akaiko-undine04-skill_2: -6398635712046950617
+      akaiko-undine04-skill_3: 3787583132935840058
+      akaiko-undine04-skill_4: 2429532082572540220
+      akaiko-undine04-skill_5: 7483951460730852286
+      akaiko-undine04-skill_6: 3545845931841824000
+      akaiko-undine04-skill_7: 1079489448394260568
+      akaiko-undine04-skill_8: 6998920309507936716
+      akaiko-undine04-skill_9: -3962052221040719712
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

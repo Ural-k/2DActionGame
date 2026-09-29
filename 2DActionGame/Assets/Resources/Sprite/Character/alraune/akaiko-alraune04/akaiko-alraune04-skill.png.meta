@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 7d6b2230f3f430a43bb4cdda635afb48
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3472014116965749656
+    second: akaiko-alraune04-skill_0
+  - first:
+      213: 1079406116605682986
+    second: akaiko-alraune04-skill_1
+  - first:
+      213: 4294036407568236100
+    second: akaiko-alraune04-skill_2
+  - first:
+      213: 7812289813578926730
+    second: akaiko-alraune04-skill_3
+  - first:
+      213: -1799857991176173118
+    second: akaiko-alraune04-skill_4
+  - first:
+      213: 4233738591698789227
+    second: akaiko-alraune04-skill_5
+  - first:
+      213: -6550044900335177993
+    second: akaiko-alraune04-skill_6
+  - first:
+      213: -564265883205803511
+    second: akaiko-alraune04-skill_7
+  - first:
+      213: -5927889050119398059
+    second: akaiko-alraune04-skill_8
+  - first:
+      213: 179192203101637547
+    second: akaiko-alraune04-skill_9
+  - first:
+      213: 7703548698357965382
+    second: akaiko-alraune04-skill_10
+  - first:
+      213: 8966210869086450223
+    second: akaiko-alraune04-skill_11
+  - first:
+      213: 1848762545112209965
+    second: akaiko-alraune04-skill_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c6d1f5e8de0dfc0800000000000000
+      internalID: -3472014116965749656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1
+        width: 116
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a256aa4e422dafe00800000000000000
+      internalID: 1079406116605682986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ef2b5ac5b779b30800000000000000
+      internalID: 4294036407568236100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_3
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a46c4b134da6c60800000000000000
+      internalID: 7812289813578926730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9cbcd61be9507e0800000000000000
+      internalID: -1799857991176173118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_5
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 2
+        width: 111
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63a11e51d241ca30800000000000000
+      internalID: 4233738591698789227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_6
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 1
+        width: 109
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fea9a4edd09915a0800000000000000
+      internalID: -6550044900335177993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_7
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 1
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90265a83b235b28f0800000000000000
+      internalID: -564265883205803511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2
+        width: 106
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d94b3f058ebbda0800000000000000
+      internalID: -5927889050119398059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_9
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 2
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bab846cfb5e9c7200800000000000000
+      internalID: 179192203101637547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_10
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ac8bd9b088ea60800000000000000
+      internalID: 7703548698357965382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_11
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 1
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22f429c7416e6c70800000000000000
+      internalID: 8966210869086450223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-alraune04-skill_12
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad5775dbf18a910800000000000000
+      internalID: 1848762545112209965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akaiko-alraune04-skill_0: -3472014116965749656
+      akaiko-alraune04-skill_1: 1079406116605682986
+      akaiko-alraune04-skill_10: 7703548698357965382
+      akaiko-alraune04-skill_11: 8966210869086450223
+      akaiko-alraune04-skill_12: 1848762545112209965
+      akaiko-alraune04-skill_2: 4294036407568236100
+      akaiko-alraune04-skill_3: 7812289813578926730
+      akaiko-alraune04-skill_4: -1799857991176173118
+      akaiko-alraune04-skill_5: 4233738591698789227
+      akaiko-alraune04-skill_6: -6550044900335177993
+      akaiko-alraune04-skill_7: -564265883205803511
+      akaiko-alraune04-skill_8: -5927889050119398059
+      akaiko-alraune04-skill_9: 179192203101637547
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

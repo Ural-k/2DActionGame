@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: 3bb039b2568975e468f0587c7f744c19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3561096715583695250
+    second: akaiko-ramia01-attack_0
+  - first:
+      213: -5484995913402524026
+    second: akaiko-ramia01-attack_1
+  - first:
+      213: -5613542606252622696
+    second: akaiko-ramia01-attack_2
+  - first:
+      213: 1182206836459483001
+    second: akaiko-ramia01-attack_3
+  - first:
+      213: -5312948704508330906
+    second: akaiko-ramia01-attack_4
+  - first:
+      213: 3735068498794716453
+    second: akaiko-ramia01-attack_5
+  - first:
+      213: -5445138098476247125
+    second: akaiko-ramia01-attack_6
+  - first:
+      213: 3605199161369396410
+    second: akaiko-ramia01-attack_7
+  - first:
+      213: 988856018924427578
+    second: akaiko-ramia01-attack_8
+  - first:
+      213: 3225004470734205261
+    second: akaiko-ramia01-attack_9
+  - first:
+      213: 5967246186396314304
+    second: akaiko-ramia01-attack_10
+  - first:
+      213: -4589033796140367729
+    second: akaiko-ramia01-attack_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2992d27689e8b6130800000000000000
+      internalID: 3561096715583695250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3
+        width: 78
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5c2b074161e3b0800000000000000
+      internalID: -5484995913402524026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1
+        width: 88
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89cbacecdb0b812b0800000000000000
+      internalID: -5613542606252622696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_3
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fa43aaada086010800000000000000
+      internalID: 1182206836459483001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_4
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb8ed6d4d9446b0800000000000000
+      internalID: -5312948704508330906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d196aa201a5d330800000000000000
+      internalID: 3735068498794716453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_6
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 0
+        width: 73
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7906fbfbbfe64b0800000000000000
+      internalID: -5445138098476247125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_7
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 0
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab485fd398d380230800000000000000
+      internalID: 3605199161369396410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_8
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 0
+        width: 125
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a395ffd5f4f19bd00800000000000000
+      internalID: 988856018924427578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_9
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 0
+        width: 129
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41b825ba7481cc20800000000000000
+      internalID: 3225004470734205261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_10
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 0
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cae47b6acaefc250800000000000000
+      internalID: 5967246186396314304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-ramia01-attack_11
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 0
+        width: 81
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f808ace731a7050c0800000000000000
+      internalID: -4589033796140367729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akaiko-ramia01-attack_0: 3561096715583695250
+      akaiko-ramia01-attack_1: -5484995913402524026
+      akaiko-ramia01-attack_10: 5967246186396314304
+      akaiko-ramia01-attack_11: -4589033796140367729
+      akaiko-ramia01-attack_2: -5613542606252622696
+      akaiko-ramia01-attack_3: 1182206836459483001
+      akaiko-ramia01-attack_4: -5312948704508330906
+      akaiko-ramia01-attack_5: 3735068498794716453
+      akaiko-ramia01-attack_6: -5445138098476247125
+      akaiko-ramia01-attack_7: 3605199161369396410
+      akaiko-ramia01-attack_8: 988856018924427578
+      akaiko-ramia01-attack_9: 3225004470734205261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

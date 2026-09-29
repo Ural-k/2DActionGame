@@ -1,0 +1,1159 @@
+fileFormatVersion: 2
+guid: c1179b79718b5b44e9d3c124d28e6d1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1957184969127068289
+    second: akaiko-sylph04-attack_0
+  - first:
+      213: -5233712474403863136
+    second: akaiko-sylph04-attack_1
+  - first:
+      213: 4040352216810754396
+    second: akaiko-sylph04-attack_2
+  - first:
+      213: -3342291357944936500
+    second: akaiko-sylph04-attack_3
+  - first:
+      213: -3665513832282561725
+    second: akaiko-sylph04-attack_4
+  - first:
+      213: -6329934523740015397
+    second: akaiko-sylph04-attack_5
+  - first:
+      213: -5426968690170169493
+    second: akaiko-sylph04-attack_6
+  - first:
+      213: -293302863000455577
+    second: akaiko-sylph04-attack_7
+  - first:
+      213: 6201593760793806489
+    second: akaiko-sylph04-attack_8
+  - first:
+      213: -3203954787549665093
+    second: akaiko-sylph04-attack_9
+  - first:
+      213: -2625933057426299315
+    second: akaiko-sylph04-attack_10
+  - first:
+      213: -6814092382092846722
+    second: akaiko-sylph04-attack_11
+  - first:
+      213: 5058742028817943585
+    second: akaiko-sylph04-attack_12
+  - first:
+      213: -1506566054084050501
+    second: akaiko-sylph04-attack_13
+  - first:
+      213: 8232046044694235652
+    second: akaiko-sylph04-attack_14
+  - first:
+      213: 8987184360350002599
+    second: akaiko-sylph04-attack_15
+  - first:
+      213: -6618832298987388894
+    second: akaiko-sylph04-attack_16
+  - first:
+      213: 7607869246417251579
+    second: akaiko-sylph04-attack_17
+  - first:
+      213: -4219460231597992135
+    second: akaiko-sylph04-attack_18
+  - first:
+      213: 6764941459230829359
+    second: akaiko-sylph04-attack_19
+  - first:
+      213: 4453673403168783215
+    second: akaiko-sylph04-attack_20
+  - first:
+      213: -5824137812928893956
+    second: akaiko-sylph04-attack_21
+  - first:
+      213: 620775085385864289
+    second: akaiko-sylph04-attack_22
+  - first:
+      213: 943123751727079861
+    second: akaiko-sylph04-attack_23
+  - first:
+      213: -1286913870370417335
+    second: akaiko-sylph04-attack_24
+  - first:
+      213: -6520961540666842935
+    second: akaiko-sylph04-attack_25
+  - first:
+      213: -2422494307462405829
+    second: akaiko-sylph04-attack_26
+  - first:
+      213: -3026539363056183903
+    second: akaiko-sylph04-attack_27
+  - first:
+      213: -80468285160914496
+    second: akaiko-sylph04-attack_28
+  - first:
+      213: 7231159448356842359
+    second: akaiko-sylph04-attack_29
+  - first:
+      213: 3526177187806848485
+    second: akaiko-sylph04-attack_30
+  - first:
+      213: -8189501061961141930
+    second: akaiko-sylph04-attack_31
+  - first:
+      213: -886803565540371016
+    second: akaiko-sylph04-attack_32
+  - first:
+      213: 529952213834460844
+    second: akaiko-sylph04-attack_33
+  - first:
+      213: 2976123168721943755
+    second: akaiko-sylph04-attack_34
+  - first:
+      213: -643199267250145542
+    second: akaiko-sylph04-attack_35
+  - first:
+      213: 6516188689560787996
+    second: akaiko-sylph04-attack_36
+  - first:
+      213: -2324560096640286383
+    second: akaiko-sylph04-attack_37
+  - first:
+      213: 1610928657054815059
+    second: akaiko-sylph04-attack_38
+  - first:
+      213: -1779739083663511739
+    second: akaiko-sylph04-attack_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d7273e3aea6d4e0800000000000000
+      internalID: -1957184969127068289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_1
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a580a2eb3e1e57b0800000000000000
+      internalID: -5233712474403863136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 5
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c51977a3fe6321830800000000000000
+      internalID: 4040352216810754396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 14
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc785d9d7bbcd91d0800000000000000
+      internalID: -3342291357944936500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 8
+        width: 104
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343648b179a712dc0800000000000000
+      internalID: -3665513832282561725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 26
+        width: 61
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4befc861e8728a0800000000000000
+      internalID: -6329934523740015397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_6
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 10
+        width: 131
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b677d37cab88fa4b0800000000000000
+      internalID: -5426968690170169493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 63
+        width: 28
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766b04f999afdebf0800000000000000
+      internalID: -293302863000455577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_8
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 11
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 996c4610bac701650800000000000000
+      internalID: 6201593760793806489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 30
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8a0b398144983d0800000000000000
+      internalID: -3203954787549665093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_10
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 59
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46662c0ccfce8bd0800000000000000
+      internalID: -2625933057426299315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_11
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7919a2c41b7f61a0800000000000000
+      internalID: -6814092382092846722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_12
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 11
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c4806a213443640800000000000000
+      internalID: 5058742028817943585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_13
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb188abe72a971be0800000000000000
+      internalID: -1506566054084050501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_14
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 39
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ac8ac234a1e3270800000000000000
+      internalID: 8232046044694235652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_15
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 32
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7adab914f84e8bc70800000000000000
+      internalID: 8987184360350002599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_16
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 10
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22089f6971f2524a0800000000000000
+      internalID: -6618832298987388894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_17
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 49
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca15a75c4949960800000000000000
+      internalID: 7607869246417251579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 18
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937d6b766477175c0800000000000000
+      internalID: -4219460231597992135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_19
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 37
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b24cb3a66e1ed50800000000000000
+      internalID: 6764941459230829359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_20
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 49
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bfa751d50aecd30800000000000000
+      internalID: 4453673403168783215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_21
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 30
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfbe37944818c2fa0800000000000000
+      internalID: -5824137812928893956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_22
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 42
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16456d1b6af6d9800800000000000000
+      internalID: 620775085385864289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_23
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 22
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b12de82e06a61d00800000000000000
+      internalID: 943123751727079861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_24
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 66
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9455c0c37a6f32ee0800000000000000
+      internalID: -1286913870370417335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_25
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 41
+        width: 6
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0a19e3704e085a0800000000000000
+      internalID: -6520961540666842935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_26
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b312c452342916ed0800000000000000
+      internalID: -2422494307462405829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_27
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 60
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a59c4e0c729ff5d0800000000000000
+      internalID: -3026539363056183903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_28
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 48
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c18c4f558e12eef0800000000000000
+      internalID: -80468285160914496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_29
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 34
+        width: 43
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77be489b43d3a5460800000000000000
+      internalID: 7231159448356842359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_30
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 8
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e52056487f7fe030800000000000000
+      internalID: 3526177187806848485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_31
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 33
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6513f1a8c2c095e80800000000000000
+      internalID: -8189501061961141930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_32
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 9
+        width: 190
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b59a6a0bd071b3f0800000000000000
+      internalID: -886803565540371016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_33
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 78
+        width: 68
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caee88d0bb4ca5700800000000000000
+      internalID: 529952213834460844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_34
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 61
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc3b77f0405d4920800000000000000
+      internalID: 2976123168721943755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_35
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 56
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af673cb9ca5e217f0800000000000000
+      internalID: -643199267250145542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_36
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 48
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c50b2c6172e6a50800000000000000
+      internalID: 6516188689560787996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_37
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 10
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15145bc78e08dbfd0800000000000000
+      internalID: -2324560096640286383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_38
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 3
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353df3a141b2b5610800000000000000
+      internalID: 1610928657054815059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: akaiko-sylph04-attack_39
+      rect:
+        serializedVersion: 2
+        x: 2278
+        y: 0
+        width: 61
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f6b5d9bb81d47e0800000000000000
+      internalID: -1779739083663511739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      akaiko-sylph04-attack_0: -1957184969127068289
+      akaiko-sylph04-attack_1: -5233712474403863136
+      akaiko-sylph04-attack_10: -2625933057426299315
+      akaiko-sylph04-attack_11: -6814092382092846722
+      akaiko-sylph04-attack_12: 5058742028817943585
+      akaiko-sylph04-attack_13: -1506566054084050501
+      akaiko-sylph04-attack_14: 8232046044694235652
+      akaiko-sylph04-attack_15: 8987184360350002599
+      akaiko-sylph04-attack_16: -6618832298987388894
+      akaiko-sylph04-attack_17: 7607869246417251579
+      akaiko-sylph04-attack_18: -4219460231597992135
+      akaiko-sylph04-attack_19: 6764941459230829359
+      akaiko-sylph04-attack_2: 4040352216810754396
+      akaiko-sylph04-attack_20: 4453673403168783215
+      akaiko-sylph04-attack_21: -5824137812928893956
+      akaiko-sylph04-attack_22: 620775085385864289
+      akaiko-sylph04-attack_23: 943123751727079861
+      akaiko-sylph04-attack_24: -1286913870370417335
+      akaiko-sylph04-attack_25: -6520961540666842935
+      akaiko-sylph04-attack_26: -2422494307462405829
+      akaiko-sylph04-attack_27: -3026539363056183903
+      akaiko-sylph04-attack_28: -80468285160914496
+      akaiko-sylph04-attack_29: 7231159448356842359
+      akaiko-sylph04-attack_3: -3342291357944936500
+      akaiko-sylph04-attack_30: 3526177187806848485
+      akaiko-sylph04-attack_31: -8189501061961141930
+      akaiko-sylph04-attack_32: -886803565540371016
+      akaiko-sylph04-attack_33: 529952213834460844
+      akaiko-sylph04-attack_34: 2976123168721943755
+      akaiko-sylph04-attack_35: -643199267250145542
+      akaiko-sylph04-attack_36: 6516188689560787996
+      akaiko-sylph04-attack_37: -2324560096640286383
+      akaiko-sylph04-attack_38: 1610928657054815059
+      akaiko-sylph04-attack_39: -1779739083663511739
+      akaiko-sylph04-attack_4: -3665513832282561725
+      akaiko-sylph04-attack_5: -6329934523740015397
+      akaiko-sylph04-attack_6: -5426968690170169493
+      akaiko-sylph04-attack_7: -293302863000455577
+      akaiko-sylph04-attack_8: 6201593760793806489
+      akaiko-sylph04-attack_9: -3203954787549665093
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
