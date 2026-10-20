@@ -1,4 +1,5 @@
-﻿using Unity.Collections.Tests.CoreCLR.TestJobs;
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 public abstract class CharacterControl : MonoBehaviour
 {
@@ -15,6 +16,8 @@ public abstract class CharacterControl : MonoBehaviour
     protected float groundCheckDistance_ = 0.2f;  // 接地判定の距離
     [SerializeField]
     protected LayerMask groundLayer_;  // 接地判定に使用するレイヤーマスク
+
+    private readonly HashSet<string> m_coolDowns = new();  // クールダウン中のアクションを管理するHashSet
 
     private float LEFTOFFSET = 0.5f;  // 左側のオフセット
     private float CENTEROFFSET = 1.5f;  // 中央のオフセット
@@ -39,6 +42,26 @@ public abstract class CharacterControl : MonoBehaviour
     /// 攻撃
     /// </summary>
     public abstract void Attack();
+
+    protected bool IsInCoolDown(string coolDownName,float seconds)
+    {
+       if(m_coolDowns.Contains(coolDownName))
+        {
+            return true; // クールダウン中
+        }
+        else
+        {
+            m_coolDowns.Add(coolDownName); // クールダウンを開始
+            StartCoroutine(CoolDownCoroutine(coolDownName, seconds));
+            return false; // クールダウンではない
+        }
+    }
+
+    private IEnumerator CoolDownCoroutine(string coolDownName, float seconds)
+    {
+        yield return new WaitForSeconds(seconds);
+        m_coolDowns.Remove(coolDownName); // クールダウンを終了
+    }
 
     /// <summary>
     /// 接地判定
@@ -96,6 +119,11 @@ public abstract class CharacterControl : MonoBehaviour
 
         return leftHit || centerHit || rightHit;
     }
+
+
+    /// <summary>
+    /// デバッグ用の足元のRayを描画
+    /// </summary>
     private void OnDrawGizmosSelected()
     {
 
